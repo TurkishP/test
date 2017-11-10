@@ -6,4 +6,4 @@ AT&T
 
 &amp;
 
-[ This link ](http :// images . google . com / images ? num =30& q= larry + bird) has no title attribute .
+[This link ](http :// images . google . com / images ? num =30& q= larry + bird) has no title attribute .
