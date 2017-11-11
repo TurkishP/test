@@ -1,6 +1,10 @@
 # test
 
-* Whatsup
+Use the 'printf ()' function .
+
+__Whatsup__ <br />
+ _ Whatsup _ 
+ _Whatssup_
 
 	<div class ="footer">
 		&copy; 2004 Foo Corporation &&
