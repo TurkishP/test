@@ -1,7 +1,10 @@
 # test
 
-Use the  ‘ printf() ‘  function.
+Use the  ‘ printf() ‘  function.  
+
 Use the  ' printf() '  function.
+
+![markdown logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 __Whatsup__ <br />
  _ Whatsup _ 
