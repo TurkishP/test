@@ -1,6 +1,6 @@
 # test
 
-Use the 'printf()' function .
+Use the ‘printf()‘ function .
 
 __Whatsup__ <br />
  _ Whatsup _ 
