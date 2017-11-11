@@ -1,7 +1,8 @@
 # test
+& &
 
 	<div class ="footer">
-		&copy; 2004 Foo Corporation
+		&copy; 2004 Foo Corporation &&
 	</div>
 
 
