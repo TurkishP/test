@@ -1,8 +1,8 @@
    *   testing list items  
-       > first item line two  
+   first item line two  
 first item line three
 
-& Ampersand
+
 
     * testing list second item  
    
