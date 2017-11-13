@@ -1,21 +1,20 @@
 
 
 
-*  testing list second item  
-   
-     second item line two
-    
-     second item para three
-    
-         code block
-         code block
+   *  testing list second item  
+second item para three 
+		> This is a block quote
+		> inside a list item
+		
+		code block
+   	code block
         
              1. Hi
              2. hello
       
-         code block
-      code block  
- We are still in list
+          code block
+       code block  
+We are still in list
 
 Now we are out of List
    
