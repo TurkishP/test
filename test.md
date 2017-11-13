@@ -1,7 +1,7 @@
 
 
 
-* testing list second item  
+*  testing list second item  
    
      second item line two
     
@@ -15,7 +15,7 @@
       
          code block
       code block
- We are still in list
+  We are still in list
 
 Now we are out of List
    
