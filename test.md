@@ -1,7 +1,4 @@
-   *   testing list items  
-   first item line two  
-first item line three  
-what is this then 
+
 
    * testing list second item  
    
@@ -21,7 +18,10 @@ what is this then
 block quote
    
    
-
+   *   testing list items  
+   first item line two  
+first item line three  
+what is this then 
 
 This is a test  
 for line braeaks  
