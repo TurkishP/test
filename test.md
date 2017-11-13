@@ -1,6 +1,6 @@
    *   testing list items  
    first item line two  
-first item line three
+first item line three  
 what is this then 
 
    * testing list second item  
