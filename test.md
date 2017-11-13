@@ -1,10 +1,14 @@
+This is a test  
+for line braeaks  
+these are on the same line tho not written 
+
 An h1 header
 ============
 
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+1look like:
 
   * this one
   * that one
@@ -29,7 +33,7 @@ An h2 header
 ------------
 
 Here's a numbered list:
-
+123124
  1. first item
  2. second item
  3. third item
