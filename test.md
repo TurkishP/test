@@ -2,6 +2,8 @@
        > first item line two  
 first item line three
 
+& Ampersand
+
     * testing list second item  
    
      second item line two
