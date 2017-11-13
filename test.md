@@ -2,9 +2,9 @@
    first item line two  
 first item line three
 
+what is this then 
 
-
-    * testing list second item  
+   * testing list second item  
    
      second item line two
     
