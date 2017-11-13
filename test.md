@@ -1,15 +1,13 @@
 
 
-   * testing list second item  
+* testing list second item  
    
      second item line two
     
      second item para three
     
-         block quote
-         block quote
-         
-             > code block within block quote
+         code block
+         code block
         
              1. Hi
              2. hello
