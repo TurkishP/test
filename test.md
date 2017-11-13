@@ -3,8 +3,8 @@
 
    *  testing list second item  
 second item para three 
-		> This is a block quote
-		> inside a list item
+	> This is a block quote
+	> inside a list item
 		
 		code block
    	code block
