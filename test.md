@@ -1,3 +1,14 @@
+[Google][id]  
+
+
+
+[Google][Google] 
+
+[Google]: http://google.com
+
+[id]: <http://google.com/> "This is Google"
+
+
 * Hi
 * this is list
 	- ilist nsdie the list
