@@ -1,12 +1,12 @@
 # test
 
 > blockquotes
->
+>### Header 3
 > 1. List
 > 2. Ordered
 >
 >
->	Code block
+>		Code block  
 >	Code block 2
 
 Use the  ‘ printf() ‘  function.  
