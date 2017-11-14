@@ -4,9 +4,10 @@ test
 [google](http://google.com)
 
 > blockquotes
->### *Header* `code` 3
+>### **Header `code` 3
 > 1. List
-> 2. Ordered  
+> 2. Ordered
+>
 >		code block  
 >		code block
 
