@@ -2,7 +2,7 @@ test
 ========
 
 > blockquotes
->### Header 3
+>### *Header* `code` 3
 > 1. List
 > 2. Ordered
 >
